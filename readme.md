@@ -2,4 +2,6 @@
 
 Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
 
-**Paola León**, Git lover
+<<<<<<< HEAD
+**Paola León**, Git & Larry Plotter lover
+
